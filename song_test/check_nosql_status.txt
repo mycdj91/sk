@@ -1,0 +1,5 @@
+--  Address         Load       Tokens       Owns (effective)  Host ID                               Rack
+UN  203.255.92.195  1.37 MiB   256          100.0%            a59b5da2-1335-46fd-9c77-acae9a943e01  rack1
+UN  203.255.92.194  1.37 MiB   256          100.0%            fbaf33d0-0541-4664-be8f-1f692aed92a9  rack1
+UN  203.255.92.193  1.4 MiB    256          100.0%            52913308-c437-43dd-b865-1d4215c74bb6  rack1
+
